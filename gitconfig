@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = linam.palacios@gmail.com
+	name = Lina Palacios
